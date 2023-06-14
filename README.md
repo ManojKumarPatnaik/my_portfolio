@@ -1,4 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Portfolio
 
 ## A minimal portfolio template for Developers!
 
@@ -330,10 +330,6 @@ Once you finish your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
 
-## Others versions 👥
-
-[Gatsby Simplefolio](https://github.com/cobiwave/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobiwave)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
@@ -343,9 +339,6 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 
-## Authors
-
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
 
 ## Status
 
@@ -355,6 +348,3 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments 🎁
-
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
